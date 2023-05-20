@@ -8,9 +8,14 @@ public class Driver {
 
 		System.out.println("Perhitungan:" + counter.getCount());
 
+		System.out.println("Perhitungan:" + counter.getCount());
+		System.out.println("Perhitungan:" + counter.getCount());
+		System.out.println("Perhitungan:" + counter.getCount());
+		System.out.println("Perhitungan:" + counter.getCount());
+
 		counter.increment();
 
-		System.out.println("Count:" + counter.getCount());
+		System.out.println("masalah:" + counter.getCount());
 
 		counter.decrement();
 
